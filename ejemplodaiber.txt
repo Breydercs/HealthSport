@@ -1,0 +1,6 @@
+"Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)"
+
+
+para hacer debug, te vas a la clase, y en el método que estas usando haces doble click al lado del número de la linea
+hasta que quede rojo, así, luego le das play al index y cuando estes en el m´todo al presionar el boton en este caso
+registrar, el te va a llevar al visual studio, y con f11 vas bajando y podes ver que esta pasando con el código

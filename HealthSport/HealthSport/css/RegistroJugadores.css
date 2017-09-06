@@ -1,0 +1,47 @@
+﻿body {
+    
+}
+
+li,.logo {
+    font-family: Verdana;
+    
+}
+
+.registro1 {
+    margin-top: 70px;
+}
+
+#dajugador {
+    text-align: center;
+    margin-top: 70px;
+}
+
+.hr1 {
+    border: 1px solid #0094ff;
+}
+
+.hr2 {
+    border: 1px solid #0094ff;
+    margin-top: 50px;
+}
+
+.reg {
+    float: left;
+}
+
+.can {
+    float: right;
+}
+
+/* Footer*/
+
+#box-wrapper {
+    text-align:center;
+    color:#fff;
+    background-color: #282C2F;
+    position: relative;
+    top: 40px;
+    margin-bottom: -1px;
+}
+
+/* Fin footer*/

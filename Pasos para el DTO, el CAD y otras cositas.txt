@@ -1,0 +1,24 @@
+-Click derecho en "SOLUTION" de ahi le damos en "ADD" y le damos Clic en "New Proyect" de ahi seleccionamos "Class Libray"
+y escribimos CAD y DTO, En el Proyecto "XXX" en este caso "HealthSport" le damos clic derecho, le damos en "ADD" y de ahi
+Seleccionamos "References", Le damos clic en "-Projects" y Seleccionamos el CAD y DTO.
+
+Conectar La base de Datos
+-Primero de damos clic en "Server Explorer"
+-Despues en "connect to database" y ahi escojemos la base de datos que vayamos a utilizar.
+-nos dirijimos a "Web.ci¿onfig" le damos doble clic
+- <connectionStrings>
+    <add name="HealthSport" connectionString="Data Source=DESKTOP-070IJ9N\SQLEXPRESS;Initial Catalog=dbo_HealthSport;Integrated Security=True"/>
+  </connectionStrings>
+
+
+Refernecias
+-Le damos clic derecho a el proyecto, le damos en "ADD", escojemos "references..." y en Assemblies buscamos System.Configuration y o chuleamos.
+
+
+using System.Configuration;
+using System.Data;
+using System.Data.SqlClient;
+using DTO; "Hay que instarciarlo"
+
+GET AND SET
+-control + e + r

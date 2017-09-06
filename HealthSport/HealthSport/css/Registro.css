@@ -1,0 +1,82 @@
+﻿body {
+    
+}
+
+li,.logo {
+    font-family: Verdana;
+    
+}
+
+#registro {
+    position: relative;
+    margin-top: 100px;
+}
+
+#Hregistro {
+    position: relative;
+    top: -30px;
+}
+
+.hr2 {
+    border: 1px solid #0094ff;
+    position: relative;
+    top: -40px;
+}
+
+#hr3 {
+    border: 1px solid #0094ff;
+    position: relative;
+    top: 100px;
+    
+}
+
+h4 {
+    position: relative;
+    top: -70px;
+}
+
+#botones {
+    position: relative;
+    top: 20px;
+    margin-left: 500px;
+}
+
+label {
+    color:red;
+}
+
+/*input:focus{
+    outline: 0px !important;
+    border: 1px solid gray !important;
+    border-bottom: 3px solid black !important;
+}*/
+
+.botones {
+    margin-left: 405px; 
+
+}
+
+#txtGuardar {
+    
+    margin-right: 60px;
+}
+
+/*-- Iniciovalidacion tiempo real --*/
+
+#lblNombres, #lblApellidos, #lblCorreos, #lblUsuarios, #lblContraseñas, #lblConcontraseñas, #lblCorreos, #lblSeleccionar,
+#lblDocumentos, #lblSexos, #lblTelefonos {
+    color: red;
+}
+
+/*-- Fin validacion tiempo real --*/
+
+/*-- Footer --*/
+
+#footer-wrapper{
+    height: 40px;
+    position: relative;
+    top: 240px;
+    background:#000;
+}
+
+/*-- Fin Footer --*/

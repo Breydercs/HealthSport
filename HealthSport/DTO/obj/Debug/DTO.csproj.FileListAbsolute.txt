@@ -1,0 +1,5 @@
+D:\Escritorio\Sena\Durley\Proyecto ASP HealthSport\HealthSport\DTO\bin\Debug\DTO.dll
+D:\Escritorio\Sena\Durley\Proyecto ASP HealthSport\HealthSport\DTO\bin\Debug\DTO.pdb
+D:\Escritorio\Sena\Durley\Proyecto ASP HealthSport\HealthSport\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Escritorio\Sena\Durley\Proyecto ASP HealthSport\HealthSport\DTO\obj\Debug\DTO.dll
+D:\Escritorio\Sena\Durley\Proyecto ASP HealthSport\HealthSport\DTO\obj\Debug\DTO.pdb

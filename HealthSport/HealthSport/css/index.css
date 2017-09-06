@@ -1,0 +1,107 @@
+﻿body {
+    
+}
+
+li,.logo {
+    font-family: Verdana;
+    
+}
+
+/* Carousel*/
+
+.container2 {
+    margin-top: 130px;
+}
+
+.carou {
+    
+}
+
+/* -- Descripcion HealthSport--*/
+
+#descripcion {
+    position: relative;
+    top: 95px;
+    font-size: 15px;
+    text-align: center;
+   
+}
+
+#frase {
+    position: relative;
+    top: 220px;
+    text-align: center;
+}
+/* -- FIN --*/
+
+/* Mision - vision y valores */
+#jumbotronNosotros {
+    position: relative;
+    top: 335px;
+}
+
+#titulonosotros{
+    position: relative;
+    bottom: 10px;
+    text-align:center;
+}
+
+
+
+#mision-vision{
+    text-align:center;
+}
+
+#valores{
+    text-align:center;
+}
+/* -- FIN -- */
+
+
+/*-- Footer --*/
+
+#box-wrapper {
+    text-align:center;
+    color:#fff;
+    background-color: #282C2F;
+    position: relative;
+    top: 300px;
+    margin-bottom: -1px;
+}
+
+.fa-envelope-square {
+    position: relative;
+    top: 15px;
+}
+
+.fa-map-marker {
+    position: relative;
+    top: 30px;
+}
+
+/*-- Fin Footer --*/   
+
+/*-- Footer --
+
+#footer-wrapper{
+    height: 40px;
+    position: relative;
+    top: 240px;
+    background:#000;
+}
+*/
+/*-- Fin Footer --*/
+
+@media (max-width: 498px){
+    #a{
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 450px){
+    #pa1,#pa2{
+        font-size: 15px;
+    }
+
+}
+

@@ -1,0 +1,7 @@
+D:\Escritorio\Sena\Durley\Proyecto ASP HealthSport\HealthSport\CAD\bin\Debug\CAD.dll
+D:\Escritorio\Sena\Durley\Proyecto ASP HealthSport\HealthSport\CAD\bin\Debug\CAD.pdb
+D:\Escritorio\Sena\Durley\Proyecto ASP HealthSport\HealthSport\CAD\bin\Debug\DTO.dll
+D:\Escritorio\Sena\Durley\Proyecto ASP HealthSport\HealthSport\CAD\bin\Debug\DTO.pdb
+D:\Escritorio\Sena\Durley\Proyecto ASP HealthSport\HealthSport\CAD\obj\Debug\CAD.csprojResolveAssemblyReference.cache
+D:\Escritorio\Sena\Durley\Proyecto ASP HealthSport\HealthSport\CAD\obj\Debug\CAD.dll
+D:\Escritorio\Sena\Durley\Proyecto ASP HealthSport\HealthSport\CAD\obj\Debug\CAD.pdb

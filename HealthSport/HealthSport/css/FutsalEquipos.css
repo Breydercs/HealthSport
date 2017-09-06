@@ -1,0 +1,61 @@
+﻿body {
+    
+}
+
+li,.logo {
+    font-family: Verdana;
+    
+}
+
+.registro1 {
+    margin-top: 120px ;
+}
+
+/**/
+
+.hr1 {
+    border: 1px solid #0094ff;
+    
+}
+
+.hr2 {
+    border: 1px solid #0094ff;
+}
+
+.hr3 {
+    border: 1px solid #0094ff;
+}
+
+.hr4 {
+    border: 1px solid #0094ff;
+    position: relative;
+    top: 30px;
+}
+
+/* Titulo de Equipos */
+
+#equipos {
+   top: 70px;
+   text-align: center;
+}
+
+#moverEqui1, #moverEqui2, #moverEqui3 {
+    margin-top: 50px;
+} 
+
+#btnregEquipo {
+    
+}
+
+
+#jugadores {
+    margin-top: 70px;
+}
+
+.reg {
+    float: left;
+}
+
+.can {
+    float: right;
+}

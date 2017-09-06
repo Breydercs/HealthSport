@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthSport", "HealthSport\HealthSport.csproj", "{45635FED-3A36-456D-94D2-110BB1439DCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{6D0BDFAA-2B49-4574-AC3E-C2C84E124AA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAD", "CAD\CAD.csproj", "{2576D87C-832C-4E9C-A39D-B78EA248B71B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45635FED-3A36-456D-94D2-110BB1439DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45635FED-3A36-456D-94D2-110BB1439DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45635FED-3A36-456D-94D2-110BB1439DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45635FED-3A36-456D-94D2-110BB1439DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D0BDFAA-2B49-4574-AC3E-C2C84E124AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D0BDFAA-2B49-4574-AC3E-C2C84E124AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D0BDFAA-2B49-4574-AC3E-C2C84E124AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D0BDFAA-2B49-4574-AC3E-C2C84E124AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2576D87C-832C-4E9C-A39D-B78EA248B71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2576D87C-832C-4E9C-A39D-B78EA248B71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2576D87C-832C-4E9C-A39D-B78EA248B71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2576D87C-832C-4E9C-A39D-B78EA248B71B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

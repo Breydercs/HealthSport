@@ -1,0 +1,91 @@
+﻿body {
+    
+}
+
+li,.logo {
+    font-family: Verdana;
+    
+}
+
+.jumbotron {
+    position: relative;
+    top: 120px;
+    
+}
+
+.marketing .col-lg-4 {
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+
+
+
+/**/
+
+.panel-profile .panel-heading {
+    height: 150px;
+    background-size: cover;
+    
+}
+
+.panel-profile-img {
+    max-width: 70px;
+    min-height: 60px;
+    margin-top: -40px;
+    margin-bottom: 5px;
+    border: 3px solid #fff;
+    border-radius: 100%;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+
+.bg0 {
+    background-image: url('../imagenes/Equiposbasquetbol.jpg');
+}
+
+.bg1 {
+    background-image: url('../imagenes/Programaciónbasquetbol.jpg');
+}
+
+.bg2 {
+    background-image: url('../imagenes/Resultadobasquetbol.jpg');
+}
+
+.bg3 {
+    background-image: url('../imagenes/Anotadoresbasquetbol.jpg');
+}
+
+.bg4 {
+    background-image: url('../imagenes/Posicionesbasquetbol.jpg');
+}
+
+.bg5 {
+    background-image: url('../imagenes/Arbitrobasquetbol.jpg');
+}
+
+.bg6 {
+    background-image: url('../imagenes/Escenariosbasquetbol.jpg');
+}
+
+
+/* Hover logo */
+
+.panel-profile-img:hover{
+    background-color: yellow;
+}
+
+/* Fin hover*/
+
+
+/*-- Footer --*/
+
+#footer-wrapper{
+    height: 40px;
+    position: relative;
+    top: 240px;
+    background:#000;
+}
+
+/*-- Fin Footer --*/
+
+
